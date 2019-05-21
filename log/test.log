@@ -394,3 +394,5 @@ Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.0ms)
 Started GET "/posts/new" for 127.0.0.1 at 2019-05-21 15:03:55 +0000
 Processing by PostsController#new as HTML
   Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 337ms (Views: 326.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
